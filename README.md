@@ -13,6 +13,7 @@
 [![Standard: ASD-STE100 Issue 9](https://img.shields.io/badge/Standard-ASD--STE100%20Issue%209-red.svg)](https://www.asd-ste100.org)
 [![Platform: DeepSeek Harness & Multi-Agent](https://img.shields.io/badge/Platform-DSH%20%7C%20Codex%20%7C%20Claude%20Code-green.svg)](#)
 [![GitHub release](https://img.shields.io/github/v/release/antti0403/dsh-plugin-ASD-STE100-Karpathy)](https://github.com/antti0403/dsh-plugin-ASD-STE100-Karpathy/releases)
+[![CI Status](https://img.shields.io/github/actions/workflow/status/antti0403/dsh-plugin-ASD-STE100-Karpathy/ci.yml?branch=main&label=CI)](https://github.com/antti0403/dsh-plugin-ASD-STE100-Karpathy/actions)
 
 </div>
 
