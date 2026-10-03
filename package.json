@@ -26,5 +26,13 @@
       "patch": "./cordis.patch.yml"
     }
   },
-  "displayName": "ASD-STE100 受控语言与降维输出 (Karpathy Ladder)"
+  "displayName": "ASD-STE100 受控语言与降维输出 (Karpathy Ladder)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antti0403/dsh-plugin-ASD-STE100-Karpathy.git"
+  },
+  "homepage": "https://github.com/antti0403/dsh-plugin-ASD-STE100-Karpathy#readme",
+  "bugs": {
+    "url": "https://github.com/antti0403/dsh-plugin-ASD-STE100-Karpathy/issues"
+  }
 }
