@@ -1,7 +1,7 @@
 {
-  "name": "dsh-plugin-ste100",
+  "name": "@local/dsh-plugin-ste100",
   "version": "1.0.0",
-  "description": "ASD-STE100 (Issue 9) Controlled Natural Language & Karpathy Output Ladder Plugin for DeepSeek Harness and AI Agents",
+  "description": "基于航空航天 ASD-STE100 Issue 9 标准与 Karpathy 4级输出阶梯：消除大模型思维链废话、多重嵌套从句与被动语态，默认输出极致干净、高可读性的结构化技术回答。",
   "main": "index.js",
   "type": "module",
   "author": "Antti Gao",
@@ -25,5 +25,6 @@
     "bundle": {
       "patch": "./cordis.patch.yml"
     }
-  }
+  },
+  "displayName": "ASD-STE100 受控语言与降维输出 (Karpathy Ladder)"
 }
