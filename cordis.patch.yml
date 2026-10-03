@@ -1,0 +1,10 @@
+- insert:
+    - id: dsh-plugin-ste100
+      name: 'C:/Users/admin/.dsh/plugins/dsh-plugin-ste100/index.js'
+      config:
+        enabled: true
+        mode: '80%-ste'
+        maxSentenceWords: 20
+        maxChineseChars: 35
+        enableDiagrams: true
+        enableProgressiveDisclosure: true

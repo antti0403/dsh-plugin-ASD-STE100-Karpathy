@@ -1,0 +1,29 @@
+{
+  "name": "dsh-plugin-ste100",
+  "version": "1.0.0",
+  "description": "ASD-STE100 (Issue 9) Controlled Natural Language & Karpathy Output Ladder Plugin for DeepSeek Harness and AI Agents",
+  "main": "index.js",
+  "type": "module",
+  "author": "Antti Gao",
+  "license": "MIT",
+  "keywords": [
+    "deepseek-harness",
+    "dsh-plugin",
+    "cordis",
+    "ste100",
+    "asd-ste100",
+    "karpathy",
+    "controlled-natural-language",
+    "de-slop",
+    "ai-writing"
+  ],
+  "peerDependencies": {
+    "@deepseek-ai/cordis": ">=4.0.0",
+    "@deepseek-ai/schemastery": ">=4.0.0"
+  },
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  }
+}
